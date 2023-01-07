@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Caroline 👋
+
+📫 How to reach me: caly974.prod@gmail.com
 
 <!--
 **CaLy974/CaLy974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
